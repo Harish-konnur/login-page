@@ -1,5 +1,5 @@
 # login-page
-//author harish konnur//
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
